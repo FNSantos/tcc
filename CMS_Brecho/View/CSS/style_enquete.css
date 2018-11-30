@@ -1,0 +1,108 @@
+
+#main{
+
+    width: 100%;
+    min-height: 1200px;
+    height: auto;
+    background-color: #fff;
+    overflow: hidden;
+
+}
+
+
+#content{
+
+    width: 1200px;
+    min-height: 1200px;
+    overflow: hidden;
+    height: auto;
+    float: left;
+    /* background-color: yellow; */
+
+}
+
+
+#btn_cadastrar{
+    float: right;
+    margin-right: 160px;
+    margin-top: -70px;
+   
+}
+
+#conteudo{
+    width: 900px;
+    height: 500px;
+    margin-left: 150px;
+}
+
+.pergunta{
+    width: 400px;
+    height: 100px;
+     border: 2px solid black;
+    margin-left: 100px;
+    margin-top: 25px;
+    float: left;
+    font-size: 26px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.resposta{
+    width: 600px;
+    height: 50px;
+    margin-left: 150px;
+    float: left;
+    margin-top: 20px;
+}
+
+#check_enquete{
+    width: 20px;
+    height: 20px;
+   
+}
+
+.resposta_enquete{
+    font-size: 26px;
+
+}
+
+.caixa_opcoes{
+    width: 300px;
+    height: 80px;
+    float: left;
+    margin-left: 300px;
+    
+    
+}
+
+.title_input{
+    margin-left: 30px;
+    margin-top: 20px;
+    float: left
+}
+
+.select_avaliacao{
+ 
+    margin-left: 35px;
+   
+}
+
+.caixa_pergunta{
+    width: 600px;
+    margin-left: 30px;
+    font-family: Arial;    
+    font-size: 18pt;
+
+
+}
+
+.input_textarea{
+
+    margin-left: 40px; 
+    float: left;
+}
+
+#btn_salvar{
+   float: right; 
+    margin-top: -20px;
+}
